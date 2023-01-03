@@ -1,0 +1,29 @@
+body{
+
+    background-image: url('./img/cinema.jpg')  ;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    
+    background-size: cover;
+    
+}
+th.poster {
+    width: 19%;
+}
+
+.col.content {
+    margin-top: 47px;
+}
+img{
+    vertical-align: middle;
+    width: 57%;
+    cursor: pointer;
+   
+}
+#titre{
+    color: white;
+    text-transform: uppercase;
+}
+img.flesh {
+    width: 10%;
+}

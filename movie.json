@@ -1,0 +1,304 @@
+{
+    "movies":[
+    {
+        "poster": "img/the boys.jpg",
+        "titre": "The Boys",
+        "réalisateur" : "Eric Kripke",
+        "durée": "40min",
+        "date": "2022",
+        "festivals" : ["tokyo","Cannes","New York","Locarno"],
+        "acteurs": [
+            { 
+                "prénom":"Karl",
+                "nom":"Urban",
+                "nationalité":"New Zealand"
+            },
+            {
+                "prénom":"Jack",
+                "nom":"Quaid",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Antony",
+                "nom":"Starr",
+                "nationalité":"American"
+            }
+        ]
+        
+    
+    }, {
+        "poster": "img/money heist.jpg",
+        "titre": "Money Heist",
+        "réalisateur" : "Álex Pina",
+        "durée": "100 minutes",
+        "date": "2020",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            { 
+                "prénom":"Úrsula",
+                "nom":"Corberó",
+                "nationalité":"Spanish"
+            },
+            {
+                "prénom":"Alvaro",
+                "nom":"Morte",
+                "nationalité":"Spanish"
+            },
+            {
+                "prénom":"Pedro",
+                "nom":"Alonso",
+                "nationalité":"Spanish"
+            }
+        ]
+        
+
+    }, {
+        "poster": "img/Jhon Wick.jpg",
+        "titre": "John Wick",
+        "réalisateur" : "Chad Stahelski",
+        "durée": "101 minutes",
+        "date": "2022",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno","Marrakesh"],
+        "acteurs": [
+            { 
+                "prénom":"Keanu",
+                "nom":"Reeves",
+                "nationalité":"Canadian"
+            },
+            {
+                "prénom":"Michael",
+                "nom":"Nyqvist",
+                "nationalité":"Swedish"
+            },
+            {
+                "prénom":"Alfie",
+                "nom":"Allen",
+                "nationalité":"English"
+            }
+        ]
+        
+    }, {
+        "poster": "img/ant man.jpg",
+        "titre": "Ant Man",
+        "réalisateur" : "Peyton Reed",
+        "durée": "117 minutes",
+        "date": "2017",
+        "festivals" : ["Moskow","Cannes","Tokyo"],
+        "acteurs": [
+            { 
+                "prénom":"Paul",
+                "nom":"Rudd",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Corey",
+                "nom":"Stoll",
+                "nationalité":"American"
+            }
+            
+        ]
+        
+    }, {
+        "poster": "img/avengers.jpg",
+        "titre": "Avengers",
+        "réalisateur" : " Joss Whedon",
+        "durée": "130 minutes",
+        "date": "2012",
+        "festivals" : ["Berlin","Tokyo","Locarno"],
+        "acteurs": [
+            { 
+                "prénom":"Robert",
+                "nom":"Downey",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Chris",
+                "nom":"Evans",
+                "nationalité":"American"
+            }
+            
+        ]
+        
+    }, {
+        "poster": "img/batman.jpg",
+        "titre": "Dark knight",
+        "réalisateur" : "Christopher Nolan",
+        "durée": "52 minutes",
+        "date": "2008",
+        "festivals" : ["Berlin","Tokyo", "Moskow", "Marrakesh"],
+        "acteurs": [
+            { 
+                "prénom":"Christian",
+                "nom":"Bale",
+                "nationalité":"English"
+            },
+            {
+                "prénom":"Heath",
+                "nom":"Ledger",
+                "nationalité":"Australian"
+            },
+            {
+                "prénom":"Michael",
+                "nom":"Caine",
+                "nationalité":"English"
+            },
+            {
+                "prénom":"Michael",
+                "nom":"Caine",
+                "nationalité":"English"
+            }
+        ]
+        
+    }, {
+        "poster": "img/kota factory.jpg",
+        "titre": "Kota Factory",
+        "réalisateur" : "Saurabh Khanna",
+        "durée": "40 minutes",
+        "date": "2019",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+        { 
+            "prénom":"Mayur",
+            "nom":"More",
+            "nationalité":"Indian"
+        },
+        {
+            "prénom":"Ranjan",
+            "nom":"Raj",
+            "nationalité":"Indian"
+        }
+        
+        ]
+        
+    },  {
+        "poster": "img/thor love of thunder.jpg",
+        "titre": "Thor Love Of Thunder",
+        "réalisateur" : "Taika Waititi",
+        "durée": "120 minutes",
+        "date": "2022",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            {
+                "prénom":"Chris",
+                "nom":"Hemsworth",
+                "nationalité":"Australian"
+            },
+            {
+                "prénom":"Christian",
+                "nom":"Bale",
+                "nationalité":"English"
+            },
+            {
+                "prénom":"Tessa",
+                "nom":"Thompson",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Tessa",
+                "nom":"Thompson",
+                "nationalité":"American"
+            }
+        ]
+        
+    },  {
+        "poster": "img/topgun.jpg",
+        "titre": "Top Gun",
+        "réalisateur" : "Joseph Kosinski",
+        "durée": "131 minutes",
+        "date": "2022",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            {
+                "prénom":"Tom",
+                "nom":"Cruise",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Miles",
+                "nom":"Teller",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Jennifer",
+                "nom":"Connelly",
+                "nationalité":"American"
+            }
+        ]
+        
+    }, {
+        "poster": "img/jurassic world.jpg",
+        "titre": "Jurassic World",
+        "réalisateur" : "Colin Trevorrow",
+        "durée": "147 minutes",
+        "date": "2022",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            {
+                "prénom":"Chris",
+                "nom":"Pratt",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Bryce ",
+                "nom":"Dallas Howard",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Vincent",
+                "nom":"D'Onofrio",
+                "nationalité":"American"
+            }
+        ]
+        
+    }, {
+        "poster": "img/eternals.jpg",
+        "titre": "Eternals",
+        "réalisateur" : "Chloé Zhao",
+        "durée": "157 minutes",
+        "date": "2021",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            {
+                "prénom":"Salma",
+                "nom":"Hayek",
+                "nationalité":"Mexican and American"
+            },
+            {
+                "prénom":"Angelina",
+                "nom":"Jolie",
+                "nationalité":"American"
+            },
+            {
+                "prénom":"Barry",
+                "nom":"Keoghan",
+                "nationalité":"Irish"
+            }
+        ]
+        
+    }, {
+        "poster": "img/spiderman.jpg",
+        "titre": "Spider Man",
+        "réalisateur" : "Jon Watts",
+        "durée": "148 minutes",
+        "date": "2021",
+        "festivals" : ["Berlin","Cannes","Tokyo","Locarno"],
+        "acteurs": [
+            {
+                "prénom":"Tom",
+                "nom":"Holland",
+                "nationalité":"English"
+            },
+            {
+                "prénom":"Tom",
+                "nom":"Holland",
+                "nationalité":"English"
+            },
+            {
+                "prénom":"Zendaya",
+                "nom":"Coleman",
+                "nationalité":"American"
+            }
+        ]
+        
+    }]
+}
